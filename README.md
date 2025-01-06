@@ -1,7 +1,11 @@
 # Installing-and-Configuring-IBM-QRadar
+
 ## Prerequisites
 1. Install Oracle Virtual Box: 
 2. Download QRadar Community Edition: https://www.ibm.com/community/101/qradar/ce/
+## Architecture of IBMQRadar
+I have explained in detail about the various components in QRadar which is used in log analysis, event processor, event collector, flow collector and network sources along with vulnerability scanner on my blog.
+Blog: https://medium.com/@shreyassrinivasa297/architecture-of-ibm-qradar-siem-3ae0d4e56a41
 ## Configuring IBM QRadar
 1. Enter the admin name and password.
 2. Run this command to update the repositories.
