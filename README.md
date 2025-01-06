@@ -52,3 +52,9 @@ ls -> to view the contents in present directory.
 ./setup
 ```
 ![9](https://github.com/user-attachments/assets/a479a673-1795-4033-a7d9-9a601389a486)
+The installation takes a while, so you can go grab a coffee and relax.
+
+Once the installation is complete, reboot the system.
+![10](https://github.com/user-attachments/assets/7d9d8d1a-0a5e-4348-87b3-ed1bffbb28de)
+
+And to interact with the console, search for the IP address on your favourite browser and login with the credentials.
