@@ -1,7 +1,7 @@
 # Installing-and-Configuring-IBM-QRadar
 ## Prerequisites
-1. Install Oracle Virtual Box
-2. Download QRadar
+1. Install Oracle Virtual Box: 
+2. Download QRadar Community Edition: 
 ## Configuring IBM QRadar
 1. Enter the admin name and password.
 2. Run this command to update the repositories.
